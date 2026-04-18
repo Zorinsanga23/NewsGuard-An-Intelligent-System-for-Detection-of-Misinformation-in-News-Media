@@ -300,7 +300,7 @@ Fetches the latest 8 news articles and classifies each one in real time using th
 
 | Name | Roll No. | GitHub |
 |------|----------|--------|
-| Zorinsanga | 2024181683 | [@zorinsanga](https://github.com/zorinsanga) |
+| Zorinsanga | 2024181683 | [@zorinsanga23](https://github.com/Zorinsanga23) |
 | Princy Kumari | 2024152084 | [@princykumari](https://github.com/princykumari) |
 
 **Supervisor:** Mr. Aditya Dayal Tyagi, Assoc. Prof., Dept. of CSA  
